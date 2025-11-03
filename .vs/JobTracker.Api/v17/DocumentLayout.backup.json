@@ -1,0 +1,555 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|solutionrelative:jobtracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|solutionrelative:jobtracker.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911EDCB4-CD70-40C5-B288-85AF8C1F0ABF}|JobTracker.Domain\\JobTracker.Domain.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911EDCB4-CD70-40C5-B288-85AF8C1F0ABF}|JobTracker.Domain\\JobTracker.Domain.csproj|solutionrelative:jobtracker.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|solutionrelative:jobtracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A13141-5661-4977-A19B-E46D5A2DC4F1}|JobTracker.Infrastructure\\JobTracker.Infrastructure.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A13141-5661-4977-A19B-E46D5A2DC4F1}|JobTracker.Infrastructure\\JobTracker.Infrastructure.csproj|solutionrelative:jobtracker.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911EDCB4-CD70-40C5-B288-85AF8C1F0ABF}|JobTracker.Domain\\JobTracker.Domain.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911EDCB4-CD70-40C5-B288-85AF8C1F0ABF}|JobTracker.Domain\\JobTracker.Domain.csproj|solutionrelative:jobtracker.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\interfaces\\ijobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\interfaces\\ijobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|solutionrelative:jobtracker.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|solutionrelative:jobtracker.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|solutionrelative:jobtracker.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.api\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|solutionrelative:jobtracker.api\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.api\\controllers\\applicationnotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|solutionrelative:jobtracker.api\\controllers\\applicationnotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64865D8C-9526-4565-A331-860DA211A509}|JobTracker.Api\\JobTracker.Api.csproj|solutionrelative:jobtracker.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A13141-5661-4977-A19B-E46D5A2DC4F1}|JobTracker.Infrastructure\\JobTracker.Infrastructure.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A13141-5661-4977-A19B-E46D5A2DC4F1}|JobTracker.Infrastructure\\JobTracker.Infrastructure.csproj|solutionrelative:jobtracker.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|c:\\users\\kaititu\\desktop\\curso asp.net\\.vs\\jobtracker.api\\jobtracker.application\\services\\applicationnoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4CBE51-EAE6-4767-B648-787D7EB56A8A}|JobTracker.Application\\JobTracker.Application.csproj|solutionrelative:jobtracker.application\\services\\applicationnoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1471,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JobTracker.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Domain\\Models\\User.cs",
+              "RelativeToolTip": "JobTracker.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:46:19.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "JobTracker.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "JobTracker.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:31:16.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "JobTracker.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "JobTracker.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:30:15.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Program.cs",
+              "RelativeDocumentMoniker": "JobTracker.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Program.cs",
+              "RelativeToolTip": "JobTracker.Api\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwE4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:24:56.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "JobTracker.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\appsettings.json",
+              "RelativeToolTip": "JobTracker.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T17:24:14.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\JobApplicationDTO.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\DTOs\\JobApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\JobApplicationDTO.cs",
+              "RelativeToolTip": "JobTracker.Application\\DTOs\\JobApplicationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:11:04.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\DTOs\\RoleDTO.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\RoleDTO.cs",
+              "RelativeToolTip": "JobTracker.Application\\DTOs\\RoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:10:51.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "JobTracker.Application\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:10:32.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\UserRegisterDTO.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\DTOs\\UserRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\UserRegisterDTO.cs",
+              "RelativeToolTip": "JobTracker.Application\\DTOs\\UserRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:10:29.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\Interfaces\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\Interfaces\\ICompanyService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\Interfaces\\ICompanyService.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\Interfaces\\ICompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:05:18.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DomainToDTOMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeToolTip": "JobTracker.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:04:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\ContactDTO.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\DTOs\\ContactDTO.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\ContactDTO.cs",
+              "RelativeToolTip": "JobTracker.Application\\DTOs\\ContactDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:03:59.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:54:56.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JobTracker.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JobTracker.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:52:49.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:06:42.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\UserResponseDTO.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\DTOs\\UserResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\DTOs\\UserResponseDTO.cs",
+              "RelativeToolTip": "JobTracker.Application\\DTOs\\UserResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:51:07.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "JobTracker.Api\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "JobTracker.Api\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:05:42.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\RoleService.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:48:17.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "JobTracker.Api\\Controllers\\JobApplicationController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "JobTracker.Api\\Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:37:37.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\ContactService.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\ContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:28:58.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "JobTracker.Api\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "JobTracker.Api\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:27:41.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\Service.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:54:09.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IJobApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\Interfaces\\IJobApplicationService.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\Interfaces\\IJobApplicationService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\Interfaces\\IJobApplicationService.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\Interfaces\\IJobApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:46:18.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:46:35.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JobApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\JobApplicationService.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\JobApplicationService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\JobApplicationService.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\JobApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:38:10.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JobTracker.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "JobTracker.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:03:26.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationNoteService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\ApplicationNoteService.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\ApplicationNoteService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\ApplicationNoteService.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\ApplicationNoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:24:45.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "JobTracker.Application\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Application\\Services\\CompanyService.cs",
+              "RelativeToolTip": "JobTracker.Application\\Services\\CompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:24:36.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "JobTracker.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "JobTracker.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:22:52.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "JobTracker.Api\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "JobTracker.Api\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:21:23.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationNoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\ApplicationNoteController.cs",
+              "RelativeDocumentMoniker": "JobTracker.Api\\Controllers\\ApplicationNoteController.cs",
+              "ToolTip": "C:\\Users\\Kaititu\\Desktop\\Curso ASP.NET\\.vs\\JobTracker.Api\\JobTracker.Api\\Controllers\\ApplicationNoteController.cs",
+              "RelativeToolTip": "JobTracker.Api\\Controllers\\ApplicationNoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:21:00.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

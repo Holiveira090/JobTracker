@@ -1,0 +1,11 @@
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\bin\Debug\net8.0\JobTracker.Domain.deps.json
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\bin\Debug\net8.0\JobTracker.Domain.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\bin\Debug\net8.0\JobTracker.Domain.pdb
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\JobTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\JobTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\JobTracker.Domain.AssemblyInfo.cs
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\JobTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\JobTracker.Domain.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\refint\JobTracker.Domain.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\JobTracker.Domain.pdb
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\ref\JobTracker.Domain.dll
