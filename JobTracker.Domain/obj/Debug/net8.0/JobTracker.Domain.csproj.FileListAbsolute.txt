@@ -9,3 +9,4 @@ C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\
 C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\refint\JobTracker.Domain.dll
 C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\JobTracker.Domain.pdb
 C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\ref\JobTracker.Domain.dll
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Domain\obj\Debug\net8.0\JobTracker.Domain.sourcelink.json

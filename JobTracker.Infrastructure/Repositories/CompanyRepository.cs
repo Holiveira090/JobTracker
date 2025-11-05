@@ -1,5 +1,6 @@
 ﻿using JobTracker.Domain.Interfaces;
 using JobTracker.Domain.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace JobTracker.Infrastructure.Repositories
 {
@@ -7,6 +8,12 @@ namespace JobTracker.Infrastructure.Repositories
     {
         public CompanyRepository(AppDbContext context) : base(context)
         {
+        }
+        public async Task<IEnumerable<Company>> GetByUserIdAsync(int userId)
+        {
+            return await _dbSet
+                .Where(c => c.UserId == userId)
+                .ToListAsync();
         }
     }
 }

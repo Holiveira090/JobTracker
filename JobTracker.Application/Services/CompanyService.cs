@@ -8,8 +8,17 @@ namespace JobTracker.Application.Services
 {
     public class CompanyService : Service<Company, CompanyDTO>, ICompanyService
     {
-        public CompanyService(ICompanyRepository repository, IMapper mapper) : base(repository, mapper)
+        private readonly ICompanyRepository _companyRepository;
+
+        public CompanyService(ICompanyRepository companyRepository, IMapper mapper) : base(companyRepository, mapper)
         {
+            _companyRepository = companyRepository;
+        }
+
+        public async Task<IEnumerable<CompanyDTO>> GetByUserIdAsync(int userId)
+        {
+            var companies = await _companyRepository.GetByUserIdAsync(userId);
+            return _mapper.Map<IEnumerable<CompanyDTO>>(companies);
         }
     }
 }

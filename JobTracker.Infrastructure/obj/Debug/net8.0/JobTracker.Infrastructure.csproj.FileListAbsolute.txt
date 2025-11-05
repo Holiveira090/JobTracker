@@ -17,3 +17,4 @@ C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Infrastruct
 C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Infrastructure\obj\Debug\net8.0\ref\JobTracker.Infrastructure.dll
 C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Infrastructure\bin\Debug\net8.0\JobTracker.Infrastructure.runtimeconfig.json
 C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Infrastructure\obj\Debug\net8.0\JobTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\Kaititu\Desktop\Curso ASP.NET\.vs\JobTracker.Api\JobTracker.Infrastructure\obj\Debug\net8.0\JobTracker.Infrastructure.sourcelink.json

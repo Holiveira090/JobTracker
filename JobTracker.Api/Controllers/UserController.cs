@@ -15,7 +15,6 @@ namespace JobTracker.Api.Controllers
             _userService = userService;
         }
 
-        // POST: /Users/register
         [HttpPost("register")]
         public async Task<ActionResult<UserResponseDTO>> Register([FromBody] UserRegisterDTO dto)
         {
@@ -24,7 +23,6 @@ namespace JobTracker.Api.Controllers
             if (user == null)
                 return BadRequest("Não foi possível registrar o usuário.");
 
-            // Retorna apenas dados seguros
             var response = new UserResponseDTO
             {
                 Id = user.Id,
@@ -34,7 +32,6 @@ namespace JobTracker.Api.Controllers
             return Ok(response);
         }
 
-        // POST: /Users/login
         [HttpPost("login")]
         public async Task<ActionResult> Login([FromBody] UserLoginDTO dto)
         {

@@ -2,6 +2,7 @@
 using JobTracker.Application.DTOs;
 using JobTracker.Application.Services.Interfaces;
 using JobTracker.Domain.Models.Enums;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace JobTracker.Api.Controllers

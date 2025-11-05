@@ -105,17 +105,7 @@
     ]
   },
   {
-    "ContainingType": "JobTracker.API.Controllers.BaseController\u00601[[JobTracker.Application.DTOs.CompanyDTO, JobTracker.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-    "Method": "GetAll",
-    "RelativePath": "Company",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "JobTracker.API.Controllers.BaseController\u00601[[JobTracker.Application.DTOs.CompanyDTO, JobTracker.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "ContainingType": "JobTracker.Api.Controllers.CompanyController",
     "Method": "Create",
     "RelativePath": "Company",
     "HttpMethod": "POST",
@@ -128,10 +118,20 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "JobTracker.Application.DTOs.CompanyDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
-    "ContainingType": "JobTracker.API.Controllers.BaseController\u00601[[JobTracker.Application.DTOs.CompanyDTO, JobTracker.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "ContainingType": "JobTracker.Api.Controllers.CompanyController",
     "Method": "GetById",
     "RelativePath": "Company/{id}",
     "HttpMethod": "GET",
@@ -147,7 +147,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "JobTracker.API.Controllers.BaseController\u00601[[JobTracker.Application.DTOs.CompanyDTO, JobTracker.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "ContainingType": "JobTracker.Api.Controllers.CompanyController",
     "Method": "Update",
     "RelativePath": "Company/{id}",
     "HttpMethod": "PUT",
@@ -165,10 +165,20 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "JobTracker.Application.DTOs.CompanyDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
-    "ContainingType": "JobTracker.API.Controllers.BaseController\u00601[[JobTracker.Application.DTOs.CompanyDTO, JobTracker.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "ContainingType": "JobTracker.Api.Controllers.CompanyController",
     "Method": "Delete",
     "RelativePath": "Company/{id}",
     "HttpMethod": "DELETE",
@@ -181,6 +191,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JobTracker.Api.Controllers.CompanyController",
+    "Method": "GetCompanyByUser",
+    "RelativePath": "Company/ByUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
