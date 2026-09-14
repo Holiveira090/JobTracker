@@ -9,12 +9,8 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
 
-
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
-// CORS - permitir requisições do frontend
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
@@ -34,13 +30,11 @@ builder.Services.AddControllers()
         options.JsonSerializerOptions.PropertyNamingPolicy = System.Text.Json.JsonNamingPolicy.CamelCase;
     });
 
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "JobTracker API", Version = "v1" });
 
-    // Configuração de segurança para JWT
     var securityScheme = new OpenApiSecurityScheme
     {
         Name = "Authorization",
@@ -74,10 +68,8 @@ builder.Services.AddAutoMapper(config =>
     config.AddProfile<DomainToDTOMappingProfile>();
 }, AppDomain.CurrentDomain.GetAssemblies());
 
-// Load JWT secret from environment variables or appsettings
 var jwtSecret = builder.Configuration["Jwt:Secret"];
 
-// Validate JWT secret is configured (can be set via environment variable)
 if (string.IsNullOrWhiteSpace(jwtSecret))
 {
     throw new InvalidOperationException(
@@ -106,9 +98,6 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
-
-
-//  Registro dos repositórios
 builder.Services.AddScoped<IApplicationNoteRepository, ApplicationNoteRepository>();
 builder.Services.AddScoped<ICompanyRepository, CompanyRepository>();
 builder.Services.AddScoped<IContactRepository, ContactRepository>();
@@ -116,7 +105,6 @@ builder.Services.AddScoped<IJobApplicationRepository, JobApplicationRepository>(
 builder.Services.AddScoped<IRoleRepository, RoleRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 
-//  Registro dos serviços
 builder.Services.AddScoped<IApplicationNoteService, ApplicationNoteService>();
 builder.Services.AddScoped<ICompanyService, CompanyService>();
 builder.Services.AddScoped<IContactService, ContactService>();
@@ -124,34 +112,24 @@ builder.Services.AddScoped<IJobApplicationService, JobApplicationService>();
 builder.Services.AddScoped<IRoleService, RoleService>();
 builder.Services.AddScoped<IUserService, UserService>();
 
-//  Registro do DbContext
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0, 29))));
 
-
-
-
 var app = builder.Build();
 app.UseDeveloperExceptionPage();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-// Habilitar CORS antes de outras middleware
 app.UseCors("AllowFrontend");
-
 app.UseHttpsRedirection();
-
 app.UseAuthentication();
 app.UseAuthorization();
 
-
 app.MapControllers();
-
 app.Run();

@@ -18,7 +18,6 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
   const [isAuthenticated, setIsAuthenticated] = useState(authService.isAuthenticated());
 
   useEffect(() => {
-    // Verificar se há usuário logado ao carregar e recuperar informações do usuário
     const token = authService.getToken();
     if (token) {
       const userId = authService.getUserId();
@@ -27,7 +26,6 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
         setUser({ id: userId, email });
         setIsAuthenticated(true);
       } else {
-        // Token existe mas não há user info — pode ser de antes da correção
         setIsAuthenticated(true);
       }
     }

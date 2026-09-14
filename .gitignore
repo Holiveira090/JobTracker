@@ -57,8 +57,6 @@ obj/
 runtimeconfig.json
 runtimeconfig.dev.json
 
-# === EF Migrations (keep migrations code but not generated output) ===
-# Migrations are kept, but ignore generated files if any
 
 # === Logs ===
 logs/
@@ -110,10 +108,6 @@ appsettings.Development.json
 *.keystore
 service-account*.json
 firebase-service-account.json
-
-# === Docker (optional) ===
-.docker/
-.env.docker
 
 # === OS files ===
 .DS_Store
